@@ -18,7 +18,7 @@ export default function Services() {
         <div className="container">
             <div className="title_headling">
                 <h3>What's Services We Are Offering to Our Customers</h3>
-                <p>Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+                <p>We offer a comprehensive range of services designed to meet all your business needs, from marketing and consulting to technology solutions and beyond.</p>
             </div>
             <div className="service_wrapper">
                 <div className="service_box">
@@ -26,7 +26,7 @@ export default function Services() {
                     <h4 className="number">01</h4>
                     <div className="service_content">
                         <h5>Cloud Computing</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>Cloud computing solutions provide scalable, cost-effective infrastructure and services.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div> 
@@ -35,7 +35,7 @@ export default function Services() {
                     <h4 className="number">02</h4>
                     <div className="service_content">
                         <h5>Business Strategy</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>We develop customized business strategies that drive growth, enhance competitiveness.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div>
@@ -44,7 +44,7 @@ export default function Services() {
                     <h4 className="number">03</h4>
                     <div className="service_content">
                         <h5>Reports Analysis</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>We offer detailed report analysis to provide valuable insights.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ export default function Services() {
                     <h4 className="number">04</h4>
                     <div className="service_content">
                         <h5>Decision Maker</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>Empowering you to be a decisive leader. Guiding strategic decisions with clarity and confidence.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ export default function Services() {
                     <h4 className="number">05</h4>
                     <div className="service_content">
                         <h5>Customer Oriented</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>We prioritize customer needs, delivering tailored solutions and exceptional service to enhance loyalty.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ export default function Services() {
                     <h4 className="number">06</h4>
                     <div className="service_content">
                         <h5>Solution Focused</h5>
-                        <p>Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.</p>
+                        <p>We focus on delivering practical solutions that address your challenges efficiently and effectively.</p>
                         <a href="/" className="read">Read more</a>
                     </div>
                 </div>

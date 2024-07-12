@@ -33,7 +33,7 @@ export default function Footer() {
     <>
     <section className="container">
         <footer className="footer">
-            <p>© All Right Reserved 2023 Designed By <a href="/">Code4education</a></p> 
+            <p>© All Right Reserved 2024 Designed By <a href="/">NightFury59</a></p> 
         </footer>
     </section>
 

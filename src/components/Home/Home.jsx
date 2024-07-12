@@ -21,7 +21,7 @@ export default function Home() {
                     <h3 className="title">
                         WE PROMOTE YOUR <span>BUSINESS</span>
                     </h3>
-                    <p>Nemo enim ipsam oluptatem quia reoluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eosqui ratione.</p>
+                    <p>We leverage cutting-edge marketing strategies to boost your brand's visibility and reach. Our tailored campaigns are designed to attract your target audience and drive sustainable growth in the feild.</p>
                     <div className="btn_wrapper">
                         <a className="btn" href="/">Get Started</a>
                     </div>
@@ -32,7 +32,7 @@ export default function Home() {
                     </div>
                     <div className="banner_style_1">
                         {faChartIcon}
-                        <h4>Bubsiness Analysis</h4>
+                        <h4>Business Analysis</h4>
                     </div>
                     <div className="banner_style_1 banner_style_2">
                         {faShieldIcon}
